@@ -60,4 +60,5 @@ def contador():
     else:
         print(f"La calificación {especifica} no aparece en la lista.")
 
-main()
+menu()
+# se cambia de main a menu 
